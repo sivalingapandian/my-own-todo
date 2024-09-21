@@ -3,6 +3,9 @@ This app is react native and tested against iOS simulator
 Run following command to get started
 
 ```
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+```
 npm install
 ```
 
